@@ -1,0 +1,63 @@
+.imgslider{height: 600px;
+
+}
+body{
+    padding-top: 50px ;
+    font-family: 'Raleway', sans-serif;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+
+}
+.baslik{
+  color: rgb(43, 41, 41);  
+  font-family: sans-serif;
+  font-weight: 350;
+}
+.line{
+    border:none solid #636e78;
+  border-top: 4px solid #06080b;  
+  max-width: 250px;
+  margin: 25px auto
+}
+.igri{
+    color: #636e78;
+position: relative;
+top: -54px;
+font-size: 45px;
+border: 10px solid #f2f2f2;
+background-color: #f2f2f2;
+}
+.ibeyaz{
+    color: #636e78;
+    position: relative;
+    top: -54px;
+    font-size: 45px;
+    border: 10px solid white;
+    background-color:white;  
+}
+.ekipcard>img:hover{
+    opacity: 0.8;
+
+}.galeri{
+  background-color:#f2f2f2
+}
+.figure:hover{
+    opacity: 0.8;
+}
+.Iletisim{
+    background-color: white;
+}
+.formItems{
+    padding: 15px;
+}
+.inputTitle{
+    padding-left: 50px;
+}
+.inputt{
+    height: 200px;
+}
+.buttonSend{
+    justify-content: center;
+}
+    
